@@ -1,15 +1,15 @@
 {
-    "name": "vscode-theme-darcula",
-    "displayName": "Darcula Theme",
+    "name": "vscode-theme-darcula-sean",
+    "displayName": "Darcula Sean",
     "description": "A theme extension for VS Code based on Darcula theme from Jetbrains IDEs",
-    "version": "1.2.3",
-    "publisher": "rokoroku",
+    "version": "1.0.0",
+    "publisher": "sean",
     "scripts": {
         "publish": "vsce publish"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/rokoroku/vscode-theme-darcula"
+        "url": "https://github.com/chlgithub8/vscode-theme-darcula.git"
     },
     "engines": {
         "vscode": "*"
@@ -21,7 +21,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Darcula",
+                "label": "Darcula Sean",
                 "uiTheme": "vs-dark",
                 "path": "./themes/darcula.json"
             }
