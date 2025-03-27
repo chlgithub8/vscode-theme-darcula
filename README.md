@@ -33,3 +33,6 @@ See [CHANGELOG.md](./CHANGELOG.md)
 ![Screenshot](https://github.com/rokoroku/vscode-theme-darcula/raw/master/screenshot.png)
 
 **Enjoy!**
+
+## 查看对应颜色命令
+Developer: Inspect Editor Tokens and Scopes

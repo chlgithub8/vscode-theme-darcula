@@ -41,7 +41,8 @@
         {
             "scope": [
                 "keyword",
-                "constant.character.escape"
+                "constant.character.escape",
+                "entity.name.function.preprocessor"
             ],
             "settings": {
                 "foreground": "#CC7832"
